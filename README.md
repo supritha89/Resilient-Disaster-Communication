@@ -1,1 +1,0 @@
-# Resilient-Disaster-Communication
